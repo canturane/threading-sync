@@ -44,7 +44,7 @@ This project showcases the use of Python’s `threading` module for handling mul
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone 
+   git clone https://github.com/canturane/threading-sync.git
    cd threading-sync
    ```
 2. Ensure Python is installed:
