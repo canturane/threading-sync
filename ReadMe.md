@@ -156,10 +156,6 @@ All students have been served. The program is ending.
 
 ---
 
-## License
-This project is open-source and available under the MIT License. Feel free to use, modify, and distribute it as needed.
-
 ---
 
-For any questions or feedback, please reach out to [your-email@example.com].
 
